@@ -29,7 +29,7 @@ If you remember just this:
 
 > Quickly viewing the beginning of files using the Linux `head` command
 
-![Preview](https://raw.githubusercontent.com/linuxteck/head-command/main/head-preview.png)
+![Preview](https://www.linuxteck.com/wp-content/uploads/2026/06/Linux-head-command-tutorial-infographic.png)
 
 ---
 
